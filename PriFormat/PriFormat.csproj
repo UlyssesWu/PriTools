@@ -44,7 +44,10 @@
     <Compile Include="DataItemSection.cs" />
     <Compile Include="DecisionInfoSection.cs" />
     <Compile Include="ExtensionMethods.cs" />
+    <Compile Include="Helper.cs" />
     <Compile Include="HierarchicalSchemaSection.cs" />
+    <Compile Include="Pers\GifPart.cs" />
+    <Compile Include="Pers\Pers.cs" />
     <Compile Include="PriDescriptorSection.cs" />
     <Compile Include="PriFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
